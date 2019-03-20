@@ -1,4 +1,4 @@
-# practice
+﻿# practice
 
 你好嗎?
 #1
@@ -9,3 +9,5 @@ git commit -m "frist commit"
 git push -u origin master 
 #4
 Hello Git
+#5
+QQ
