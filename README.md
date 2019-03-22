@@ -21,3 +21,15 @@ sekiro
 Archer branch
 #10
 git branch [branch name]
+#11
+git branch
+#12
+git checkout [branch name]
+#13
+git commit -a -m "message"
+#14
+git meage [branch name]
+#15
+git push 
+#16
+git stage
